@@ -1,0 +1,9 @@
+*.pyc
+*.pckl
+datasets/*/all.txt
+/amie-dev.jar
+/.env
+/datasets/FB_ori/
+/datasets/
+.env
+

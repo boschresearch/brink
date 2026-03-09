@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zhu2rng@localhost:2222 password" createEmptyFolders="true" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="zhu2rng@localhost:2222 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/fs/scratch/rb_bd_dlp_rng_dl01_cr_ICT_employees/zhu2rng/src/RGQA" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
