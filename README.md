@@ -242,19 +242,6 @@ To evaluate any new KG-RAG system on BRINK:
 
 This design ensures that all systems are compared under the same output-processing and metric definitions.
 
-## Repository Structure
-
-A recommended structure is:
-
-```text
-.
-├── data/
-├── scripts/
-├── evaluation/
-│   └── evaluate_brink.py
-├── README.md
-└── requirements.txt
-```
 
 ## Citation
 
