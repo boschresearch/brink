@@ -1,0 +1,20 @@
+[
+  {
+    "id": "q1",
+    "question": "Which cities are associated with Country X in the benchmark?",
+    "answers": ["Paris", "London"],
+    "hard_answer": "Paris"
+  },
+  {
+    "id": "q2",
+    "question": "What is the relationship between Person A and Person B?",
+    "answers": ["Marriage"],
+    "hard_answer": "Marriage"
+  },
+  {
+    "id": "q3",
+    "question": "Which organization is linked to Researcher Z?",
+    "answers": ["University of Oslo"],
+    "hard_answer": "University of Oslo"
+  }
+]
